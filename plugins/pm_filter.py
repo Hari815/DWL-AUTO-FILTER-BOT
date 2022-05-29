@@ -213,7 +213,7 @@ async def next_page(bot, query):
         btn.append(
             [
                 InlineKeyboardButton("⬅️ 𝖡𝖺𝖼𝗄", callback_data=f"next_{req}_{key}_{off_set}"),
-                InlineKeyboardButton(f"🌹 𝖯𝖺𝗀𝖾 {round(int(offset) / 10) + 1} / {round(total / 10)}", callback_data="pages"),
+                InlineKeyboardButton(f"📋 𝖯𝖺𝗀𝖾 {round(int(offset) / 10) + 1} / {round(total / 10)}", callback_data="pages"),
                 InlineKeyboardButton("𝖭𝖾𝗑𝗍 ➡️", callback_data=f"next_{req}_{key}_{n_offset}")
             ],
         )
@@ -881,8 +881,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ♥️', url='https://t.me/AboutAadhi')
-            ],[
             InlineKeyboardButton('⬅️ 𝖡𝖺𝖼𝗄', callback_data='start'),
             InlineKeyboardButton('⛔ 𝖢𝗅𝗈𝗌𝖾', callback_data='close_data')
         ]]
@@ -894,7 +892,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "restric":
         buttons = [[
-            InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
+            InlineKeyboardButton('⬅️ 𝖡𝖺𝖼𝗄', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
