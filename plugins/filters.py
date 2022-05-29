@@ -132,10 +132,10 @@ async def get_all(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("Make sure I'm present in your group!!", quote=True)
+                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
                 return
         else:
-            await message.reply_text("I'm not connected to any groups!", quote=True)
+            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
@@ -198,7 +198,7 @@ async def deletefilter(client, message):
                 await message.reply_text("Make sure I'm present in your group!!", quote=True)
                 return
         else:
-            await message.reply_text("I'm not connected to any groups!", quote=True)
+            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
 
     elif chat_type in ["group", "supergroup"]:
         grp_id = message.chat.id
@@ -219,7 +219,7 @@ async def deletefilter(client, message):
         cmd, text = message.text.split(" ", 1)
     except:
         await message.reply_text(
-            "<i>Mention the filtername which you wanna delete!</i>\n\n"
+            "<i>𝖬𝖾𝗇𝗍𝗂𝗈𝗇 𝖳𝗁𝖾 𝖥𝗂𝗅𝖾 𝖭𝖺𝗆𝖾 𝖶𝗁𝗂𝖼𝗁 𝖸𝗈𝗎 𝖶𝖺𝗇𝗇𝖺 𝖣𝖾𝗅𝖾𝗍𝖾!</i>\n\n"
             "<code>/del filtername</code>\n\n"
             "Use /viewfilters to view all available filters",
             quote=True
@@ -246,10 +246,10 @@ async def delallconfirm(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("Make sure I'm present in your group!!", quote=True)
+                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
                 return
         else:
-            await message.reply_text("I'm not connected to any groups!", quote=True)
+            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
