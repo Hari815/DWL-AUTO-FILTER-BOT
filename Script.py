@@ -53,7 +53,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ➪ /pbatch ›› <b>𝖴𝗌𝖾 𝖸𝗈𝗎𝗋 𝖬𝖾𝖺𝖽𝗂𝖺 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽.</b>
 ➪ /batch ›› <b>𝚃𝖳𝗈 𝖢𝗋𝖾𝖺𝗍𝖾 𝖫𝗂𝗇𝗄𝗌 𝖥𝗈𝗋 𝖬𝗎𝗅𝗍𝗂𝗉𝗅𝖾 𝖥𝗂𝗅𝖾𝗌.</b>
 
-⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
+⪼ 𝖤𝗑𝖺𝗆𝗉𝗅𝖾 ›
 
 <code>/batch https://t.me/+Rc9TK3wIf6xjODE9</code>
 
@@ -65,11 +65,11 @@ Note:- Give a user details
     
 <b>〽️ 𝖩𝗎𝗌𝗍 𝖲𝗎𝗆 𝖪𝗂𝗇𝖽 𝖮𝖿 𝖥𝗎𝗇 𝖳𝗁𝗂𝗇𝗀'𝗌 〽️</b>
  
-𝟣. /dice - 𝚁𝙾𝙻𝙴 𝚃𝙷𝙴 𝙳𝙸𝙲𝙴 
-𝟤. /Throw 𝗈𝗋 /Dart - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙳𝙰𝚁𝚃 
-3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
-4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
-5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
+𝟣. /dice - 𝖱𝗈𝗅𝖾 𝖳𝗁𝖾 𝖣𝗂𝗌𝖾
+𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 𝖣𝖺𝗋𝗍 
+3. /Runs - 𝖲𝗈𝗆𝖾 𝖱𝖺𝗇𝖽𝗈𝗆 𝖣𝗂𝖺𝗅𝗈𝗀𝖾𝗌 
+4. /Goal or /Shoot - 𝖳𝗈 𝖬𝖺𝗄𝖾 𝖠 𝖦𝗈𝖺𝗅 𝖮𝗋 𝖲𝗁𝗈𝗈𝗍
+5. /luck or /cownd - 𝖲𝗉𝗂𝗇 𝖠𝗇𝖽 𝖳𝗋𝗒 𝖸𝗈𝗎𝗋 𝖫𝗎𝖼𝗄"""
 
     MANUELFILTER_TXT = """Help: <b>𝖥𝗂𝗅𝗍𝖾𝗋𝗌</b>
 
@@ -101,13 +101,13 @@ Note:- Give a user details
 
 <b>𝖠𝗅𝗅 𝖳𝗁𝖾 𝖯𝗂𝗇 𝖬𝖺𝗌𝗌𝖺𝗀𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖢𝖺𝗇 𝖡𝖾 𝖥𝗈𝗎𝗇𝖽 𝖧𝖾𝗋𝖾 :</b>
 
-<b>📌𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴📌</b>
+<b>𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖠𝗇𝖽 𝖴𝗌𝖺𝗀𝖾𝗌</b>
 
-◉ /pin :- 𝚃𝙾 𝙿𝙸𝙽 𝚃𝙷𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙲𝙷𝙰𝚃𝚂
-◉ /unpin :- 𝚃𝙾 𝚄𝙽𝙿𝙸𝙽 𝚃𝙷𝙴 𝙲𝚄𝚁𝚁𝙴𝙴𝙽𝚃 𝙿𝙸𝙽𝙽𝙴𝙳 𝙼𝙴𝚂𝙰𝙰𝙶𝙴"""
+◉ /pin :- 𝖳𝗈 𝖯𝗂𝗇 𝖳𝗁𝖾 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 𝖮𝗇 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗍𝗌
+◉ /unpin :- 𝖳𝗈 𝖴𝗇𝗉𝗂𝗇 𝖳𝗁𝖾 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝖯𝗂𝗇𝗇𝖾𝖽 𝖬𝖾𝗌𝗌𝖺𝗀𝖾"""
     PASTE_TXT = """Help: <b>Paste</b>
 
-Paste some texts or documents on a website!
+𝖯𝖺𝗌𝗍𝖾 𝖲𝗈𝗆𝖾 𝖳𝖾𝗑𝗍𝗌 𝖮𝗋 𝖣𝗈𝖼𝗎𝗆𝖾𝗍𝗌 𝖮𝗇 𝖠 𝖶𝖾𝖻𝗌𝗂𝗍𝖾!
 
 <b>Commands and Usage:</b>
 
@@ -115,22 +115,22 @@ Paste some texts or documents on a website!
 
 <b>NOTE:</b>
 
-• These commands works on both pm and group.
-• These commands can be used by any group member."""
+• 𝖳𝗁𝖾𝗌𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖶𝗈𝗋𝗄𝗌 𝖮𝗇 𝖡𝗈𝗍𝗁 𝖯𝗆 𝖠𝗇𝖽 𝖦𝗋𝗈𝗎𝗉.
+• 𝖳𝗁𝖾𝗌𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖢𝖺𝗇 𝖡𝖾 𝖴𝗌𝖾𝖽 𝖡𝗒 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉 𝖬𝖾𝗆𝖻𝖾𝗋."""
     TTS_TXT = """Help: <b> TTS 🎤 module:</b>
 
-Translate text to speech
+𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾 𝖳𝖾𝗑𝗍 𝖳𝗈 𝖲𝗉𝖾𝖾𝖼𝗁
 
 <b>Commands and Usage:</b>
 
-• /tts <text> : convert text to speech
+• /tts <text> : 𝖢𝗈𝗇𝗏𝖾𝗋𝗍 𝖳𝖾𝗑𝗍 𝖳𝗈 𝖲𝗉𝖾𝖾𝖼𝗁
 
 <b>NOTE:</b>
 
-• IMDb should have admin privillage.
+• 𝖨𝗆𝖽𝖻 𝖲𝗁𝗈𝗎𝗅𝖽 𝖧𝖺𝗏𝖾 𝖠𝖽𝗆𝗂𝗇 𝖯𝗋𝖾𝗏𝗂𝗅𝖺𝗀𝖾.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
-    PINGS_TXT ="""<b>🌟 Ping:</b>
+    PINGS_TXT ="""<b>🌟 𝖯𝗂𝗇𝗀:</b>
 
 Helps you to know your ping 🚶🏼‍♂️
 
@@ -160,12 +160,6 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
-<b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>"""
-
     JSON_TXT ="""<b>JSON:</b>
 
 Bot returns json for all replied messages with /json
@@ -178,7 +172,7 @@ Group Support
 
 <b>Note:</b>
 
-Everyone can use this command , if spaming happens bot will automatically ban you from the group."""
+𝖤𝗏𝖾𝗋𝗂𝗒𝗈𝗇𝖾 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 , 𝖨𝖿 𝖲𝗉𝖺𝗆𝗂𝗇𝗀 𝖧𝖺𝗉𝗉𝖾𝗇 𝖡𝗈𝗍 𝖶𝗂𝗅𝗅 𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝖼𝖺𝗅𝗅𝗒 𝖡𝖺𝗇 𝖸𝗈𝗎 𝖥𝗋𝗈𝗆 𝖳𝗁𝖾 𝖦𝗋𝗈𝗎𝗉."""
     PURGE_TXT = """<b>Purge</b>
     
 Delete A Lot Of Messages From Groups! 
@@ -188,30 +182,30 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
+-Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/+Rc9TK3wIf6xjODE9)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙾𝙽/𝙾𝙵𝙵 𝙼𝙾𝙳𝚄𝙻𝙴..</b>
+    AUTOFILTER_TXT = """<b>𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋 𝖮𝗇/𝖮𝖿𝖿 𝖬𝗈𝖽𝗎𝗅𝖾..</b>
 
-<b>𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝚂 𝚃𝙷𝙴 𝙵𝙴𝙰𝚃𝚄𝚁𝙴 𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙰𝙽𝙳 𝚂𝙰𝚅𝙴  𝚃𝙷𝙴 𝙵𝙸𝙻𝙴𝚂 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙻𝙻𝚈 𝙵𝚁𝙾𝙼 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙶𝚁𝙾𝚄𝙿. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙴 𝙵𝙾𝙻𝙻𝙾𝚆𝙸𝙽𝙶 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝚃𝙾 𝙾𝙽 𝙰𝙽𝙳 𝙾𝙵𝙵 𝚃𝙷𝙴 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.../</b>
+<b>𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋 𝖨𝗌 𝖳𝗁𝖾 𝖥𝖾𝖺𝗍𝗎𝗋𝖾 𝖳𝗈 𝖥𝗂𝗅𝗍𝖾𝗋 𝖠𝗇𝖽 𝖲𝖺𝗏𝖾 𝖳𝗁𝖾 𝖥𝗂𝗅𝖾𝗌 𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝖼𝖺𝗅𝗅𝗒 𝖥𝗋𝗈𝗆 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖳𝗈 𝖦𝗋𝗈𝗎𝗉. 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖳𝗁𝖾 𝖥𝗈𝗅𝗅𝗐𝗂𝗇𝗀 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖳𝗈 𝖮𝗇 𝖠𝗇𝖽 𝖮𝖿𝖿 𝖳𝗁𝖾 𝖠𝗎𝗍𝗈𝖥𝗂𝗅𝗍𝖾𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉.../</b>
 
-<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
-<b>›› /autofilter on - 𝙴𝙽𝙰𝙱𝙻𝙴 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
-<b>›› /autofilter off - 𝙳𝙸𝚂𝙰𝙱𝙻𝙴𝙳 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁 𝙸𝙽 𝚃𝙷𝙴 𝙶𝚁𝙾𝚄𝙿𝚂.</b>
-<b>›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
-<b>›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.</b>
+<b>𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 :-
+<b>›› /autofilter on - 𝖤𝗇𝖺𝖻𝗅𝖾 𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋 𝖨𝗇 𝗍𝗁𝖾 𝖦𝗋𝗈𝗎𝗉.</b>
+<b>›› /autofilter off - 𝖣𝗂𝗌𝖺𝖻𝗅𝖾𝖽 𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋 𝖨𝗇 𝗍𝗁𝖾 𝖦𝗋𝗈𝗎𝗉.</b>
+<b>›› /set_template - 𝖲𝖾𝗍 𝖢𝗎𝗌𝗍𝗈𝗆 𝖨𝗆𝖽𝖻 𝖳𝖾𝗆𝗉𝗅𝖺𝗍𝖾 𝖥𝗈𝗋 𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋.</b>
+<b>›› /get_template - 𝖦𝖾𝗍 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝖨𝗆𝖽𝖻 𝖳𝖾𝗆𝗉𝗅𝖺𝗍𝖾 𝖮𝖿 𝖠𝗎𝗍𝗈 𝖥𝗂𝗅𝗍𝖾𝗋.</b>
 
-<b>𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/OpusTechz>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a></b>"""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+<b>𝖢𝗋𝖾𝖽𝗂𝗍𝗌 :- <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>"""
+    CONNECTION_TXT = """Help: <b>𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝗂𝗈𝗇𝗌</b>
 
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
@@ -224,10 +218,7 @@ Delete A Lot Of Messages From Groups!
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
-
-<b>NOTE:</b>
-these are the extra features of ᗩᒍᗩ᙭ 
+    EXTRAMOD_TXT = """Help: <b>𝖤𝗑𝗍𝗋𝖺 𝖬𝗈𝖽𝗎𝗅𝖾𝗌</b>
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
@@ -251,66 +242,66 @@ This module only works for my admins
 • /unban_user  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>᚛› 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>᚛› 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
+    STATUS_TXT = """<b>🗃️ 𝖳𝗈𝗍𝖺𝗅 𝖥𝗂𝗅𝖾𝗌 : <code>{}</code></b>
+<b>👤 𝖳𝗈𝗍𝖺𝗅 𝖴𝗌𝖾𝗋𝗌 : <code>{}</code></b>
+<b>👥 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌 : <code>{}</code></b>
+<b>💾 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾 : <code>{}</code> 𝖬𝖻</b>
+<b>🖥️ 𝖥𝗋𝖾𝖾 𝖲𝗍𝗈𝗋𝖺𝗀𝖾 : <code>{}</code> 𝖬𝖻</b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
-<b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
-<b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
-<b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
+<b>♻️ 𝖦𝗋𝗈𝗎𝗉 ⪼ {}(<code>{}</code>)</b>
+<b>👨‍👨‍👧‍👦 𝖳𝗈𝗍𝖺𝗅 𝖬𝖾𝗆𝖻𝖾𝗋𝗌 ⪼ <code>{}</code></b>
+<b>👨‍💻 𝖠𝖽𝖽𝖾𝖽 𝖡𝗒 ⪼ {}</b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
     
-<b>᚛› 𝐈𝐃 - <code>{}</code></b>
-<b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
+<b>᚛› 𝖨𝖽 - <code>{}</code></b>
+<b>᚛› 𝖭𝖺𝗆𝖾 - {}</b>
 """
-    REPORT_TXT = """➤ 𝐇𝐞𝐥𝐩: Rᴇᴘᴏʀᴛ ⚠️
+    REPORT_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖱𝖾𝗉𝗈𝗋𝗍 ⚠️
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚛𝚎𝚙𝚘𝚛𝚝 𝚊 𝚖𝚎𝚜𝚜𝚊𝚐𝚎 𝚘𝚛 𝚊 𝚞𝚜𝚎𝚛 𝚝𝚘 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚜𝚙𝚎𝚌𝚝𝚒𝚟𝚎 𝚐𝚛𝚘𝚞𝚙. 𝙳𝚘𝚗'𝚝 𝚖𝚒𝚜𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍.
+𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖱𝖾𝗉𝗈𝗋𝗍 𝖠 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 𝖮𝗋 𝖠 𝖴𝗌𝖾𝗋 𝖳𝗈 𝖳𝗁𝖾 𝖠𝖽𝗆𝗂𝗇 𝖮𝖿 𝖳𝗁𝖾 𝖱𝖾𝗌𝗉𝖾𝖼𝗍𝗂𝗏𝖾 𝖦𝗋𝗈𝗎𝗉. 𝖣𝗈𝗇'𝗍 𝖬𝗂𝗌𝗎𝗌𝖾 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽.
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+➤ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖠𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:
 
 ➪/report 𝗈𝗋 @admins - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾)."""
 
-    CORONA_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖢𝗈𝗏𝗂𝖽
+    CORONA_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖢𝗈𝗏𝗂𝖽
 
-𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚍𝚊𝚒𝚕𝚢 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚌𝚘𝚟𝚒𝚍 
+𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉𝗌 𝖸𝗈𝗎 𝖳𝗈 𝖪𝗇𝗈𝗐 𝖣𝖺𝗂𝗅𝗒 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖠𝖻𝗈𝗎𝗍 𝖢𝗈𝗏𝗂𝖽 
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+➤ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖴𝗌𝖺𝗀𝖾:
 
 ➪ /covid - 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝖼𝗈𝗎𝗇𝗍𝗋𝗒 𝗇𝖺𝗆𝖾 𝗍𝗈 𝗀𝖾𝗍 𝖼𝗈𝗏𝗂𝖽𝖾 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
 <code>/covid 𝖨𝗇𝖽𝗂𝖺</code>"""
 
-    URLSHORT_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
+    URLSHORT_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 
+𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖲𝗁𝗈𝗋𝗍 𝖠 𝖴𝗋𝗅 
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+➤ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:
 
 ➪ /short: 𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌
 
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
-<code>/short https://youtu.be/kB9TkCs8cX0</code>"""
+<code>/short https://youtu.be/IF_qoYnCLjs</code>"""
 
-    VIDEO_TXT ="""𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝚅𝙸𝙳𝙴𝙾 𝙵𝚁𝙾𝙼 𝚈𝙾𝚄𝚃𝚄𝙱𝙴.
+    VIDEO_TXT ="""𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖵𝗂𝖽𝖾𝗈𝗌 𝖥𝗋𝗈𝗆 𝖸𝗈𝗎𝗍𝗎𝖻𝖾.
 
-• 𝘜𝘴𝘢𝘨𝘦
-𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
+• 𝖴𝗌𝖺𝗀𝖾
+𝗒𝗈𝗎 𝖼𝖺𝗇 𝖽𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖺𝗇𝗒 𝗏𝗂𝖽𝖾𝗈 𝖿𝗋𝗈𝗆 𝗒𝗈𝗎𝗍𝗎𝖻𝖾
 
-𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• 𝘛𝘺𝘱𝘦 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/kB9TkCs8cX0)
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/mp4 https://youtu.be/kB9TkCs8cX0</code>
-<code>/video https://youtu.be/kB9TkCs8cX0</code>"""
+𝖧𝗈𝗐 𝖳𝗈 𝖴𝗌𝖾
+• 𝖳𝗒𝗉𝖾 /video or /mp4 𝘈𝘯𝘥 (https://youtu.be/IF_qoYnCLjs)
+• 𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
+<code>/mp4 https://youtu.be/IF_qoYnCLjs</code>
+<code>/video https://youtu.be/IF_qoYnCLjs</code>"""
 
-    ZOMBIES_TXT = """𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙺𝙸𝙲𝙺 𝚄𝚂𝙴𝚁𝚂
+    ZOMBIES_TXT = """𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖪𝗂𝖼𝗄 𝖴𝗌𝖾𝗋
 
-<b>Kick incative members from group. Add me as admin with ban users permission in group.</b>
+<b>𝖪𝗂𝖼𝗄 𝖨𝗇𝖺𝖼𝗍𝗂𝗏𝖾 𝖬𝖾𝗆𝖻𝖾𝗋𝗌 𝖥𝗋𝗈𝗆 𝖦𝗋𝗈𝗎𝗉. 𝖠𝖽𝖽 𝖬𝖾 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇 𝖶𝗂𝗍𝗁 𝖡𝖺𝗇 𝖴𝗌𝖾𝗋𝗌 𝖯𝖾𝗋𝗆𝗂𝗌𝗎𝗈𝗇 𝖨𝗇 𝖦𝗋𝗈𝗎𝗉.</b>
 
 <b>Commands and Usage:</b>
 • /inkick - command with required arguments and i will kick members from group.
@@ -319,43 +310,43 @@ This module only works for my admins
 • /inkick long_time_ago - to kick members who are offline for more than a month and Deleted Accounts.
 • /dkick - to kick deleted accounts."""
 
-    IMAGE_TXT = """➤ 𝐇𝐞𝐥𝐩: Iᴍᴀɢᴇ
+    IMAGE_TXT = """➤ 𝖧𝖾𝗅𝗉 : 𝖨𝗆𝖺𝗀𝖾
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚎𝚍𝚒𝚝 𝚒𝚖𝚊𝚐𝚎 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚒𝚕𝚢 
+𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖤𝖽𝗂𝗍 𝖨𝗆𝖺𝗀𝖾 𝖵𝖾𝗋𝗒 𝖤𝖺𝗌𝗂𝗅𝗒 
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+➤ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖠𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a>"""
+𝖬𝖺𝖽𝖾 𝖡𝗒 <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>"""
 
-    STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
-• 𝐔𝐒𝐀𝐆𝐄
+    STICKER_TXT = """𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖳𝗁𝗂𝗌 𝖬𝗈𝖽𝗎𝗅𝖾 𝖳𝗈 𝖥𝗂𝗇𝖽 𝖠𝗇𝗒 𝖲𝗍𝗂𝖼𝗄𝖾𝗋𝗌 𝖨𝖽.
+• 𝖴𝗌𝖺𝗀𝖾
 To Get Sticker ID
  
-  ⭕ 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+  🛃 𝖧𝗈𝗐 𝖳𝗈 𝖴𝗌𝖾
  
 ◉ Reply To Any Sticker [/stickerid]"""
 
     YTTHUMB_TXT = """𝙷𝙴𝙻𝙿𝚂 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝚅𝙸𝙳𝙴𝙾 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻
     
-⭕𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-𝘛𝘺𝘱𝘦 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬
+🛃 𝖧𝗈𝗐 𝖳𝗈 𝖴𝗌𝖾
+𝖳𝗒𝗉𝖾 /ytthumb 𝘈𝘯𝘥 𝘝𝘪𝘥𝘦𝘰 𝘓𝘪𝘯𝘬
 
-• 𝘌𝘹𝘢𝘮𝘱𝘭𝘦
-<code>/ytthumb https://youtu.be/UyzJ9KEoU0w</code>"""
+• 𝖤𝗑𝖺𝗆𝗉𝗅𝖾
+<code>/ytthumb https://youtu.be/OWqbMNrVt5s</code>"""
 
-    ABOOK_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
+    ABOOK_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖠𝗎𝖽𝗂𝗈𝖻𝗈𝗈𝗄
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚟𝚎𝚛𝚝 𝚊 𝙿𝙳𝙵 𝚏𝚒𝚕𝚎 𝚝𝚘 𝚊 𝚊𝚞𝚍𝚒𝚘 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚝𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 ✯
+𝖸𝗈𝗎 𝖢𝖺𝗇 𝖢𝗈𝗇𝗏𝖾𝗋𝗍 𝖠 𝖯𝖽𝖿 𝖥𝗂𝗅𝖾 𝖳𝗈 𝖠 𝖵𝗂𝖽𝖾𝗈 𝖥𝗂𝗅𝖾 𝖶𝗂𝗍𝗁 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽.
 
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+➤𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖠𝗇𝖽 𝖴𝗌𝖺𝗀𝖾:
 
 ➪ /audiobook: 𝖱𝖾𝗉𝗅𝗒 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗍𝗈 𝖺𝗇𝗒 𝖯𝖣𝖥 𝗍𝗈 𝗀𝖾𝗇𝖾𝗋𝖺𝗍𝖾 𝗍𝗁𝖾 𝖺𝗎𝖽𝗂𝗈"""
 
     GTRANS_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖦𝗈𝗈𝗀𝗅𝖾 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾𝗋
 
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚛𝚊𝚗𝚜𝚕𝚊𝚝𝚎 𝚊 𝚝𝚎𝚡𝚝 𝚝𝚘 𝖺𝗇𝗒 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝. 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚜 𝚘𝚗 𝚋𝚘𝚝𝚑 𝚙𝚖 𝚊𝚗𝚍 𝚐𝚛𝚘𝚞𝚙 ✯
+𝖳𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉 𝖸𝗈𝗎 𝖳𝗈 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾 𝖠 𝖳𝖾𝗑𝗍 𝖳𝗈 𝖠𝗇𝗒 𝖫𝖺𝗇𝗀𝗎𝗀𝖾𝗌 𝖨𝖿 𝖸𝗈𝗎 𝖶𝖺𝗇𝗍. 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖶𝗈𝗋𝗄𝗌 𝖮𝗇 𝖡𝗈𝗍𝗁 𝖯𝗆 𝖠𝗇𝖽 𝖦𝗋𝗈𝗎𝗉.
 
 ➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
 
@@ -369,9 +360,9 @@ To Get Sticker ID
 • 𝗆𝗅 = 𝖬𝖺𝗅𝖺𝗒𝖺𝗅𝖺𝗆
 • 𝗁𝗂 = 𝖧𝗂𝗇𝖽𝗂"""
 
-    RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
+    RESTRIC_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖬𝗎𝗍𝖾 🚫
 
-𝚃𝚑𝚎𝚜𝚎 𝚊𝚛𝚎 𝚝𝚑𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚊 𝚐𝚛𝚘𝚞𝚙 𝚊𝚍𝚖𝚒𝚗 𝚌𝚊𝚗 𝚞𝚜𝚎 𝚝𝚘 𝚖𝚊𝚗𝚊𝚐𝚎 𝚝𝚑𝚎𝚒𝚛 𝚐𝚛𝚘𝚞𝚙 𝚖𝚘𝚛𝚎 𝚎𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚕𝚢.
+𝖳𝗁𝖾𝗌𝖾 𝖠𝗋𝖾 𝖳𝗁𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖠 𝖦𝗋𝗈𝗎𝗉 𝖠𝖽𝗆𝗂𝗇 𝖢𝖺𝗇 𝖳𝗈 𝖬𝖺𝗌𝗌𝖺𝗀𝖾 𝖳𝗁𝗂𝖾𝗋 𝖦𝗋𝗈𝗎𝗉 𝖬𝗈𝗋𝖾 𝖤𝖿𝖿𝗂𝖼𝗂𝗇𝗍𝗅𝗒.
 
 ➪/ban: 𝖳𝗈 𝖻𝖺𝗇 𝖺 𝗎𝗌𝖾𝗋 𝖿𝗋𝗈𝗆 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
 ➪/unban: 𝖳𝗈 𝗎𝗇𝖻𝖺𝗇 𝖺 𝗎𝗌𝖾𝗋 𝗂𝗇 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
@@ -388,7 +379,7 @@ To Get Sticker ID
  • 𝗆 = 𝗆𝗂𝗇𝗎𝗍𝖾𝗌
  • 𝗁 = 𝗁𝗈𝗎𝗋𝗌
  • 𝖽 = 𝖽𝖺𝗒𝗌"""
-    CREATOR_REQUIRED = """❗<b>You have To Be The Group Creator To Do That.</b>"""
+    CREATOR_REQUIRED = """❗<b>𝖸𝗈𝗎 𝖧𝖺𝗏𝖾 𝖳𝗈 𝖡𝖾 𝖳𝗁𝖾 𝖦𝗋𝗈𝗎𝗉 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 𝖳𝗈 𝖣𝗈 𝖳𝗁𝖺𝗍.</b>"""
       
     INPUT_REQUIRED = "❗ **Arguments Required**"
       
