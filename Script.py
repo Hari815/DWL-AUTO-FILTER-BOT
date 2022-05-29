@@ -43,47 +43,40 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
 ━━━━━━━━━━━━᚜ <a href=https://t.me/AboutAadhi><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━""" 
-    FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
+    FILE_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗈𝗋𝖾 𝖬𝗈𝖽𝗎𝗅𝖾../
 
-<b>𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚂𝚃𝙾𝚁𝙴 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝙼𝚈 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 𝙰𝙽𝙳 𝙸 𝚆𝙸𝙻𝙻 𝙶𝙸𝚅𝙴 𝚈𝙾𝚄 𝙰 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝙻𝙸𝙽𝙺  𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝚃𝙷𝙴 𝚂𝙰𝚅𝙴𝙳 𝙵𝙸𝙻𝙴𝚂.𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰 𝙿𝚄𝙱𝙻𝙸𝙲 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝙵𝙸𝙻𝚆 𝙻𝙸𝙽𝙺 𝙾𝙽𝙻𝚈  𝙾𝚁 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙾 𝙰𝙳𝙳 𝙵𝙸𝙻𝙴𝚂 𝙵𝚁𝙾𝙼 𝙰  𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚈𝙾𝚄 𝙼𝚄𝚂𝚃 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽 𝙾𝙽 𝚃𝙷𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚃𝙾 𝙰𝙲𝙲𝙴𝚂𝚂 𝙵𝙸𝙻𝙴𝚂...//</b>
+<b>𝖡𝗒 𝖴𝗌𝗂𝗇𝗀 𝖳𝗁𝗂𝗌 𝖬𝗈𝖽𝗎𝗅𝖾 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖲𝗍𝗈𝗋𝖾 𝖥𝗂𝗅𝖾𝗌 𝖨𝗇 𝖬𝗒 𝖣𝖺𝗍𝖺 𝖡𝖺𝗌𝖾 𝖠𝗇𝖽 𝖨 𝖶𝗂𝗅𝗅 𝖦𝗂𝗏𝖾 𝖸𝗈𝗎 𝖠 𝖯𝖾𝗋𝗆𝖾𝗇𝖾𝗇𝗍 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖠𝖼𝖼𝖾𝗌𝗌 𝖳𝗁𝖾 𝖲𝖺𝗏𝖾𝖽 𝖥𝗂𝗅𝖾𝗌.𝖨𝖿 𝖸𝗈𝗎 𝖶𝖺𝗇𝗍 𝖳𝗈 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖥𝗋𝗈𝗆 𝖠 𝖯𝗋𝗂𝗏𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖸𝗈𝗎 𝖬𝗎𝗌𝗍 𝖬𝖺𝗄𝖾 𝖬𝖾 𝖠𝖽𝗆𝗂𝗇 𝖮𝗇 𝖳𝗁𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖳𝗈 𝖠𝖼𝖼𝖾𝗌𝗌 𝖥𝗂𝗅𝖾𝗌...//</b>
 
-⪼ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞 ›
+⪼ 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖠𝗇𝖽 𝖴𝗌𝖺𝗀𝖾𝗌 ›
 
-➪ /plink ›› <b>𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙰𝙽𝚈 𝙼𝙴𝙳𝙸𝙰 𝚃𝙾 𝙶𝙴𝚃 𝙻𝙸𝙽𝙺.</b>
-➪ /pbatch ›› <b>𝚄𝚂𝙴 𝚈𝙾𝚄𝚁 𝙼𝙴𝙳𝙸𝙰 𝙻𝙸𝙽𝙺 𝚆𝙸𝚃𝙷 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳.</b>
-➪ /batch ›› <b>𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙵𝙸𝙻𝙴𝚂.</b>
+➪ /plink ›› <b>𝖱𝖾𝗉𝗅𝖺𝗒 𝖳𝗈 𝖠𝗇𝗒 𝖬𝖾𝖽𝗂𝖺 𝖳𝗈 𝖦𝖾𝗍 𝖫𝗂𝗇𝗄.</b>
+➪ /pbatch ›› <b>𝖴𝗌𝖾 𝖸𝗈𝗎𝗋 𝖬𝖾𝖺𝖽𝗂𝖺 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽.</b>
+➪ /batch ›› <b>𝚃𝖳𝗈 𝖢𝗋𝖾𝖺𝗍𝖾 𝖫𝗂𝗇𝗄𝗌 𝖥𝗈𝗋 𝖬𝗎𝗅𝗍𝗂𝗉𝗅𝖾 𝖥𝗂𝗅𝖾𝗌.</b>
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/MWUpdatez/3 https://t.me/MWUpdatez/8</code>
+<code>/batch https://t.me/+Rc9TK3wIf6xjODE9</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝖢𝗋𝖾𝖽𝗂𝗍𝗌 ›› <a href=https://t.me/DARKWEBLOAD><b>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
-<b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
+<b>〽️ 𝖩𝗎𝗌𝗍 𝖲𝗎𝗆 𝖪𝗂𝗇𝖽 𝖮𝖿 𝖥𝗎𝗇 𝖳𝗁𝗂𝗇𝗀'𝗌 〽️</b>
  
 𝟣. /dice - 𝚁𝙾𝙻𝙴 𝚃𝙷𝙴 𝙳𝙸𝙲𝙴 
 𝟤. /Throw 𝗈𝗋 /Dart - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙳𝙰𝚁𝚃 
 3. /Runs - 𝚂𝙾𝙼𝙴 𝚁𝙰𝙽𝙳𝙾𝙼 𝙳𝙸𝙰𝙻𝙾𝙶𝚄𝙴𝚂 
 4. /Goal or /Shoot - 𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰 𝙶𝙾𝙰𝙻 𝙾𝚁 𝚂𝙷𝙾𝙾𝚃
 5. /luck or /cownd - 𝚂𝙿𝙸𝙽 𝙰𝙽𝙳 𝚃𝚁𝚈 𝚈𝙾𝚄𝚁 𝙻𝚄𝙲𝙺"""
-    DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
-  
-<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
 
-<b>𝙸𝙵 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝚃𝙷𝙴 𝙰𝙹𝙰𝚇-𝙿𝚁𝙾-𝙼𝙰𝚇 𝚁𝙴𝙿𝙾 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>
+    MANUELFILTER_TXT = """Help: <b>𝖥𝗂𝗅𝗍𝖾𝗋𝗌</b>
 
-<b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
-
-- Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ᗩᒍᗩ᙭ should have admin privillage.
+1. Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -92,21 +85,21 @@ Note:- Give a user details
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    SONG_TXT = """<b>𝚂𝙾𝙽𝙶 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴</b>
+    SONG_TXT = """<b>𝖲𝗈𝗇𝗀 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗈𝖽𝗎𝗅𝖾</b>
 
-<b>𝚂𝙾𝙽𝙶 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙾𝙳𝚄𝙻𝙴, 𝙵𝙾𝚁 𝚃𝙷𝙾𝚂𝙴 𝚆𝙷𝙾 𝙻𝙾𝚅𝙴 𝙼𝚄𝚂𝙸𝙲. 𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙵𝙴𝙰𝚃𝚄𝙴 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙰𝙽𝚈 𝚂𝙾𝙽𝙶 𝚆𝙸𝚃𝙷 𝚂𝚄𝙿𝙴𝚁 𝙵𝙰𝚂𝚃 𝚂𝙿𝙴𝙴𝙳.𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿𝚂../</b>
+<b>𝖲𝗈𝗇𝗀 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗈𝖽𝗎𝗅𝖾, 𝖥𝗈𝗋 𝖳𝗁𝗈𝗌𝖾 𝖶𝗁𝗈 𝖫𝗈𝗏𝖾 𝖬𝗎𝗌𝗂𝖼. 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖥𝗈𝗋 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗎𝗌𝗂𝖼. 𝖠𝗇𝗒 𝖲𝗈𝗇𝗀 𝖶𝗂𝗍𝗁 𝖲𝗎𝗉𝖾𝗋 𝖥𝖺𝗌𝗍 𝖲𝗉𝖾𝖾𝖽.𝖶𝗈𝗋𝗄𝗌 𝖮𝗇𝗅𝗒 𝖮𝗇 𝖦𝗋𝗈𝗎𝗉../</b>
 
-<b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
+<b>𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌</b>
 
-››  /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
+››  /song 𝖲𝗈𝗇𝗀 𝖭𝖺𝗆𝖾 
 
-𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
+𝖶𝗈𝗋𝗄𝗌 𝖮𝗇𝗅𝗒 𝖮𝗇 𝖦𝗋𝗈𝗎𝗉
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/OpusTechz>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a>"""
+𝖢𝗋𝖾𝖽𝗂𝗍𝗌 :- <a href=https://t.me/DARKWEBLOAD>Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
-<b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
+<b>𝖯𝗂𝗇 𝖠 𝖬𝖺𝗌𝗌𝖺𝗃𝖾../</b>
 
-<b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
+<b>𝖠𝗅𝗅 𝖳𝗁𝖾 𝖯𝗂𝗇 𝖬𝖺𝗌𝗌𝖺𝗀𝖾 𝖢𝗈𝗆𝗆𝖺𝗇𝖽𝗌 𝖢𝖺𝗇 𝖡𝖾 𝖥𝗈𝗎𝗇𝖽 𝖧𝖾𝗋𝖾 :</b>
 
 <b>📌𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙰𝙽𝙳 𝚄𝚂𝙰𝙶𝙴📌</b>
 
