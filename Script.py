@@ -1,5 +1,6 @@
 class script(object):
     START_TXT = """𝖧𝖾𝗅𝗅𝗈 {},
+
 𝖬𝗒 𝖭𝖺𝗆𝖾 𝖨𝗌 <a href=https://t.me/{}>{}</a>, 𝖨 𝖢𝖺𝗇 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌, 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗇𝖽 𝖬𝖺𝗄𝖾 𝖬𝖾 𝖠𝖽𝗆𝗂𝗇.. 𝖳𝗁𝖾𝗇 𝖲𝖾𝖾 𝖬𝗒 𝖯𝗈𝗐𝖾𝗋𝗌..😎"""
     HELP_TXT = """𝖧𝖾𝗒 {}
 𝖧𝖾𝗋𝖾 𝖨𝗌 𝖬𝗒 𝖧𝖾𝗅𝗉 𝖢𝗈𝗆𝗆𝖺𝗇𝖽"""
@@ -130,19 +131,16 @@ Note:- Give a user details
 • 𝖨𝗆𝖽𝖻 𝖲𝗁𝗈𝗎𝗅𝖽 𝖧𝖺𝗏𝖾 𝖠𝖽𝗆𝗂𝗇 𝖯𝗋𝖾𝗏𝗂𝗅𝖺𝗀𝖾.
 • These commands works on both pm and group.
 • IMDb can translate texts to 200+ languages."""
-    PINGS_TXT ="""<b>🌟 𝖯𝗂𝗇𝗀:</b>
+    PINGS_TXT ="""<b>🔗 𝖯𝗂𝗇𝗀:</b>
 
 Helps you to know your ping 🚶🏼‍♂️
 
 <b>Commands:</b>
 
 • /alive - To check you are alive.
-• /help - To get help.
 • /ping - To get your ping.
-• /repo - Source Code.
-• /channel - Channel Details.
-• /ajax - Bot Link.
-<b>🏹Usage🏹 :</b>
+
+<b>👨‍💻 Usage:</b>
 
 • This commands can be used in pms and groups
 • This commands can be used buy everyone in the groups and bots pm
