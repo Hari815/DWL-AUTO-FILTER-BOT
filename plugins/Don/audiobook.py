@@ -31,7 +31,7 @@ async def pdf_to_text(bot, message):
                   for page in range (0,num_of_pages):              
                       page_no = pdf_reader.getPage(page) # Iteration of page number
                       page_content += page_no.extractText()
-                await txt.edit(f"Creating Your Audio Book...\n Please Don't Do Anything")
+                await txt.edit(f"𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝖸𝗈𝗎𝗋 𝖠𝗎𝖽𝗂𝗈 𝖡𝗈𝗈𝗄...\n 𝖯𝗅𝖾𝖺𝗌𝖾 𝖣𝗈𝗇'𝗍 𝖣𝗈 𝖠𝗇𝗂𝗍𝗁𝗂𝗇𝗀..")
                 output_text = page_content + Thanks
               # Change Voice by editing the Language
                 language = 'en-in'  # 'en': ['en-us', 'en-ca', 'en-uk', 'en-gb', 'en-au', 'en-gh', 'en-in',
@@ -45,7 +45,7 @@ async def pdf_to_text(bot, message):
                 
                 
            else :
-                await message.reply("Please Reply to PDF file")
+                await message.reply("𝖯𝗅𝖾𝖺𝗌𝖾 𝖱𝖾𝗉𝗅𝖺𝗒 𝖳𝗈 𝖯𝖣𝖥 𝖥𝗂𝗅𝖾")
  except Exception as error :
            print(error)
            await txt.delete()
