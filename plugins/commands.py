@@ -367,7 +367,7 @@ async def settings(client, message):
                 await message.reply_text("𝖬𝖺𝗄𝖾 𝗌𝗎𝗋𝖾 𝗂'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
                 return
         else:
-            await message.reply_text("I'm not connected to any groups!", quote=True)
+            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
