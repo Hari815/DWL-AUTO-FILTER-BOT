@@ -3,13 +3,18 @@ class script(object):
 𝖬𝗒 𝖭𝖺𝗆𝖾 𝖨𝗌 <a href=https://t.me/{}>{}</a>, 𝖨 𝖢𝖺𝗇 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌, 𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗇𝖽 𝖬𝖺𝗄𝖾 𝖬𝖾 𝖠𝖽𝗆𝗂𝗇.. 𝖳𝗁𝖾𝗇 𝖲𝖾𝖾 𝖬𝗒 𝖯𝗈𝗐𝖾𝗋𝗌..😎"""
     HELP_TXT = """𝖧𝖾𝗒 {}
 𝖧𝖾𝗋𝖾 𝖨𝗌 𝖬𝗒 𝖧𝖾𝗅𝗉 𝖢𝗈𝗆𝗆𝖺𝗇𝖽"""
-    ABOUT_TXT = """<b>➪  𝖬𝖸 𝖭𝖠𝖬𝖤 : {}</b>
-<b>➪ 𝖢𝖱𝖤𝖠𝖳𝖮𝖱 : <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>
-<b>➪ 𝖫𝖨𝖡𝖱𝖠𝖱𝖸 : <a href="https://github.com/pyrogram/pyrogram"> ᴘʏʀᴏɢʀᴀᴍ</a></b>
-<b>➪ 𝖫𝖠𝖭𝖦𝖴𝖠𝖦𝖤 : <a href="https://www.python.org/"> ᴘʏᴛʜᴏɴ</a></b>
-<b>➪ 𝖣𝖠𝖳𝖠 𝖡𝖠𝖲𝖤 : <a href="https://www.mongodb.com/"> ᴍᴏɴɢᴏ ᴅʙ</a></b>
-<b>➪ 𝖡𝖮𝖳 𝖲𝖤𝖱𝖵𝖤𝖱 : <a href="http://heroku.com/"> ʜᴇʀᴏᴋᴜ</a></b>
-<b>➪ 𝖡𝖴𝖨𝖫𝖣 𝖲𝖳𝖠𝖳𝖴𝖲 : 𝚅1.0.43</b>"""
+    ABOUT_TXT = """╔══════════════════❍
+║╭━━━━━━━━━━━━━━━➣ 
+║<b>🤖 𝖬ʏ 𝖭ᴀᴍᴇ -  {}.</b>
+║<b>🧑‍💻 𝖢ʀᴇᴀᴛᴏʀ - <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a></b>
+║<b>🗣️ 𝖫ᴀɴɢᴜᴀɢᴇ - <a href="https://www.python.org/"> 𝙿𝚈𝚃𝙷𝙾𝙽</a></b>
+║<b>🧬 𝖢ʟᴏɴᴇᴅ 𝖥ʀᴏᴍ - 𝙶𝙸𝚃𝙷𝚄𝙱</b>
+║<b>🧩 𝖥ʀᴀᴍᴇᴡᴏʀᴋ - <a href="https://github.com/pyrogram/pyrogram"> 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a></b>
+║<b>📡 𝖡ᴏᴛ 𝖲ᴇʀᴠᴇʀ : <a href="http://heroku.com/"> 𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
+║<b>📦 𝖣ᴀᴛᴀ 𝖡ᴀꜱᴇ -  <a href="https://www.mongodb.com/"> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a></b>
+║<b>🚥 𝖡ᴜɪʟᴅ 𝖲ᴛᴀᴛᴜꜱ - ᴠ1.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>
+║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍"""
+
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
