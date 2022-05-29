@@ -324,8 +324,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton(f"{stat}", callback_data=f"{cb}:{group_id}"),
-             InlineKeyboardButton("𝙳𝙴𝙻𝙴𝚃𝙴", callback_data=f"deletecb:{group_id}")],
-            [InlineKeyboardButton("𝙱𝙰𝙲𝙺", callback_data="backcb")]
+             InlineKeyboardButton("𝖣𝖾𝗅𝖾𝗍𝖾 🗑️", callback_data=f"deletecb:{group_id}")],
+            [InlineKeyboardButton("⬅️ 𝖡𝖺𝖼𝗄", callback_data="backcb")]
         ])
 
         await query.message.edit_text(
@@ -519,7 +519,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],[
                 InlineKeyboardButton(text="𝖲𝗍𝗂𝖼𝗄𝖾𝗋", callback_data="rmbgsticker"),
                 ],[
-                InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='photo')
+                InlineKeyboardButton('⬅️ 𝖡𝖺𝖼𝗄', callback_data='photo')
              ]]
         ),)
     elif query.data == "stick":
@@ -778,7 +778,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton(text="𝖦𝗅𝗂𝗍𝖼𝗁", callback_data="glitch"),
             InlineKeyboardButton(text="𝖱𝖾𝗆𝗈𝗏𝖾 𝖡𝖦", callback_data="removebg")
             ],[
-            InlineKeyboardButton(text="𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
+            InlineKeyboardButton(text="⛔ 𝖢𝗅𝗈𝗌𝖾", callback_data="close_data")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)        
         await query.message.edit_text(        
