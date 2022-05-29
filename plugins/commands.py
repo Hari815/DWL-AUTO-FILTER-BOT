@@ -56,12 +56,12 @@ async def start(client, message):
         try:
             invite_link = await client.create_chat_invite_link(int(AUTH_CHANNEL))
         except ChatAdminRequired:
-            logger.error("ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ғᴏʀᴄᴇsᴜʙ ᴄʜᴀɴɴᴇʟ")
+            logger.error("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖡𝗈𝗍 𝖨𝗌 𝖠𝖽𝗆𝗂𝗇 𝖨𝗇 𝖥𝗈𝗋𝖼𝖾𝗌𝗎𝖻 𝖢𝗁𝖺𝗇𝗇𝖾𝗅")
             return
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔰 𝖩ᴏɪɴ 𝖢ʜᴀɴɴᴇʟ 🔰", url=invite_link.invite_link
+                    "🔰 𝖩𝗈𝗂𝗇 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 🔰", url=invite_link.invite_link
                 )
             ]
         ]
@@ -97,7 +97,7 @@ async def start(client, message):
         file_id = data
         pre = ""
     if data.split("-", 1)[0] == "BATCH":
-        sts = await message.reply("<b>𝙰𝙲𝙲𝙴𝚂𝚂𝙸𝙽𝙶 𝙵𝙸𝙻𝙴𝚂.../</b>")
+        sts = await message.reply("<b>𝖠𝖼𝖼𝖾𝗌𝗌𝗂𝗇𝗀 𝖥𝗂𝗅𝖾𝗌.../</b>")
         file_id = data.split("-", 1)[1]
         msgs = BATCH_FILES.get(file_id)
         if not msgs:
@@ -328,12 +328,12 @@ async def delete_all_index(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="𝖸ᴇs", callback_data="autofilter_delete"
+                        text="𝖸𝖾𝗌", callback_data="autofilter_delete"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="𝖢ᴀɴᴄᴇʟ", callback_data="close_data"
+                        text="𝖢𝖺𝗇𝖼𝖾𝗅", callback_data="close_data"
                     )
                 ],
             ]
