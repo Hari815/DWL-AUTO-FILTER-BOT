@@ -60,13 +60,13 @@ def song(client, message):
         )
         print(str(e))
         return
-    m.edit("**dσwnlσαdíng чσur ѕσng...🎸🎶**")
+    m.edit("**𝐷𝑜𝑤𝑛𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑌𝑜𝑢𝑟 𝑆𝑜𝑛𝑔...😊🎸🎶**")
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = f'<b>𝑻𝒊𝒕𝒍𝒆:</b> <a href="{link}">{title}</a>\n🎙️ <b>𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏:</b> <code>{duration}</code>\n🎵 <b>𝑽𝒊𝒆𝒘𝒔:</b> <code>{views}</code>\n🎻 <b>𝑹𝒆𝒒𝒖𝒆𝒔𝒕𝒆𝒅 𝒃𝒚:</b> {message.from_user.mention()} \n🎶 <b>𝑼𝒑𝒍𝒐𝒂𝒅𝒆𝒅 𝑩𝒚: @Universal_MoviesZ</b> 👑'
+        rep = f'<b>🎸 𝑇𝑖𝑡𝑙𝑒 :</b> <a href="{link}">{title}</a>\n🎙️ <b>🕰️ 𝐷𝑢𝑟𝑎𝑡𝑖𝑜𝑛 :</b> <code>{duration}</code>\n🎵 <b>🎧 𝑉𝑖𝑒𝑤𝑠 :</b> <code>{views}</code>\n <b>👤 𝑅𝑒𝑞𝑢𝑒𝑠𝑡𝑒𝑑 𝑏𝑦 ::</b> {message.from_user.mention()} \n <b>🎺 𝑈𝑝𝑙𝑜𝑎𝑑𝑒𝑑 𝑏𝑦 : @Universal_MoviesZ</b> 👑'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
