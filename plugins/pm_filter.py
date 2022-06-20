@@ -1406,7 +1406,7 @@ async def auto_filter(client, msg, spoll=False):
         except Exception as e:
             logger.exception(e)
             fek = await message.reply_photo(photo="https://telegra.ph/file/3cccb8384fd65914b5193.jpg", caption=cap, reply_markup=InlineKeyboardMarkup(btn))
-            await asyncio.sleep(300)
+            await asyncio.sleep(6)
             await fek.delete()
             await msg.delete()
     else:
