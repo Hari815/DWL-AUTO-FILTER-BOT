@@ -61,7 +61,7 @@ async def showid(client, message):
 async def aboutme(client, message):
         buttons= [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Universal_Moviess')         
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Universal_Moviess'),         
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')          
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
