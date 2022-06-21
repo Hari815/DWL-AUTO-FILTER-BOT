@@ -60,10 +60,9 @@ async def showid(client, message):
 @Client.on_message(filters.command("about"))
 async def aboutme(client, message):
         buttons= [[
-            InlineKeyboardButton('𝖩𝗈𝗂𝗇 𝖬𝗒 𝖢𝗁𝖺𝗇𝗇𝖾𝗅', url='https://t.me/+Rc9TK3wIf6xjODE9')
-            ],[
-            InlineKeyboardButton('⬅️ 𝖡𝖺𝖼𝗄', callback_data='start'),
-            InlineKeyboardButton('𝖢𝗅𝗈𝗌𝖾 ⛔', callback_data='close_data')
+            InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Universal_Moviess')         
+            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')          
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
