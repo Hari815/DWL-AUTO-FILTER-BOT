@@ -61,16 +61,16 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🔰 𝖩𝗈𝗂𝗇 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 🔰", url=invite_link.invite_link
+                    "⚙️ Jᴏɪɴ Tʜᴇ Cʜᴀɴɴᴇʟ ⚙️", url=invite_link.invite_link
                 )
             ]
         ]
 
         if message.command[1] != "subscribe":
-            btn.append([InlineKeyboardButton("𝖳𝗋𝗒 𝖠𝗀𝖺𝗂𝗇 🔁", callback_data=f"checksub#{message.command[1]}")])
+            btn.append([InlineKeyboardButton("Tʀʏ Aɢᴀɪɴ 🔄", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!**",
+            text="⚠️ 𝗥𝗘𝗔𝗗 𝗧𝗛𝗜𝗦 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡 ⚠️\n\n🔊__ഗ്രൂപ്പിൽ ചോദിക്കുന്ന സിനിമകൾ നിങ്ങൾക്ക് ലഭിക്കണം എന്നുണ്ടെങ്കിൽ നിങ്ങൾ താഴെ കൊടുത്തിട്ടുള്ള ചാനലിൽ ജോയിൻ ചെയ്യണം. ജോയിൻ ചെയ്ത ശേഷം വീണ്ടും ഗ്രൂപ്പിൽ പോയി ആ ബട്ടനിൽ അമർത്തുകയോ അല്ലെങ്കിൽ Try Again എന്ന ബട്ടനിൽ അമർത്തുകയോ ചെയ്താൽ നിങ്ങൾക്ക് ഞാൻ ആ സിനിമ പ്രൈവറ്റ് ആയി അയച്ചു തരുന്നതാണ്..__😍\n\n 🗣 __𝐼𝑛 𝑂𝑟𝑑𝑒𝑟 𝑇𝑜 𝐺𝑒𝑡 𝑇ℎ𝑒 𝑀𝑜𝑣𝑖𝑒𝑠 𝑅𝑒𝑞𝑢𝑒𝑠𝑡𝑒𝑑 𝐵𝑦 𝑌𝑜𝑢 𝑖𝑛 𝑂𝑢𝑟 𝐺𝑟𝑜𝑢𝑝𝑠, 𝑌𝑜𝑢 𝑊𝑖𝑙𝑙 𝐻𝑎𝑣𝑒 𝑇𝑜 𝐽𝑜𝑖𝑛 𝑂𝑢𝑟 𝑂𝑓𝑓𝑖𝑐𝑖𝑎𝑙 𝐶ℎ𝑎𝑛𝑛𝑒𝑙 𝐹𝑖𝑟𝑠𝑡. 𝐴𝑓𝑡𝑒𝑟 𝑇ℎ𝑎𝑡, 𝑇𝑟𝑦 𝐴𝑐𝑐𝑒𝑠𝑠𝑖𝑛𝑔 𝑇ℎ𝑎𝑡 𝑀𝑜𝑣𝑖𝑒 𝐴𝑔𝑎𝑖𝑛 𝐹𝑟𝑜𝑚 𝑂𝑢𝑟 𝐺𝑟𝑜𝑢𝑝 𝑂𝑟 𝐶𝑙𝑖𝑐𝑘 𝑇𝑟𝑦 𝐴𝑔𝑎𝑖𝑛 𝐵𝑢𝑡𝑡𝑜𝑛. 𝐼'𝑙𝑙 𝑆𝑒𝑛𝑑 𝑌𝑜𝑢 𝑇ℎ𝑎𝑡 𝑀𝑜𝑣𝑖𝑒 𝑃𝑟𝑖𝑣𝑎𝑡𝑒𝑙𝑦__😊\n\n 👇 𝗝𝗢𝗜𝗡 𝗧𝗛𝗜𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 & 𝗧𝗥𝗬 👇",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
@@ -97,7 +97,7 @@ async def start(client, message):
         file_id = data
         pre = ""
     if data.split("-", 1)[0] == "BATCH":
-        sts = await message.reply("<b>𝖠𝖼𝖼𝖾𝗌𝗌𝗂𝗇𝗀 𝖥𝗂𝗅𝖾𝗌.../</b>")
+        sts = await message.reply("<b>ᴀᴄᴄᴇssɪɴɢ ғɪʟᴇs...</b>")
         file_id = data.split("-", 1)[1]
         msgs = BATCH_FILES.get(file_id)
         if not msgs:
@@ -277,7 +277,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("𝖣𝖾𝗅𝖾𝗍𝗂𝗇𝗀....🗑️", quote=True)
+        msg = await message.reply("ᴅᴇʟᴇᴛɪɴɢ....🗑️", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
@@ -296,7 +296,7 @@ async def delete(bot, message):
         '_id': file_id,
     })
     if result.deleted_count:
-        await msg.edit('**𝖥𝗂𝗅𝖾 𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝖣𝖾𝗅𝖾𝗍𝖾𝖽 ✅**')
+        await msg.edit('**ғɪʟᴇ sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ✅**')
     else:
         file_name = re.sub(r"(_|\-|\.|\+)", " ", str(media.file_name))
         result = await Media.collection.delete_many({
@@ -305,7 +305,7 @@ async def delete(bot, message):
             'mime_type': media.mime_type
             })
         if result.deleted_count:
-            await msg.edit('**𝖥𝗂𝗅𝖾 𝖲𝗎𝖼𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝖣𝖾𝗅𝖾𝗍𝖾𝖽 ✅**')
+            await msg.edit('**ғɪʟᴇ sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ✅**')
         else:
             # files indexed before https://github.com/EvamariaTG/EvaMaria/commit/f3d2a1bcb155faf44178e5d7a685a1b533e714bf#diff-86b613edf1748372103e94cacff3b578b36b698ef9c16817bb98fe9ef22fb669R39 
             # have original file name.
@@ -315,7 +315,7 @@ async def delete(bot, message):
                 'mime_type': media.mime_type
             })
             if result.deleted_count:
-                await msg.edit('**𝖥𝗂𝗅𝖾 𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝖣𝖾𝗅𝖾𝗍𝖾𝖽 ✅**')
+                await msg.edit('**ғɪʟᴇ sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ✅**')
             else:
                 await msg.edit('File not found in database')
 
@@ -323,17 +323,17 @@ async def delete(bot, message):
 @Client.on_message(filters.command('deleteall') & filters.user(ADMINS))
 async def delete_all_index(bot, message):
     await message.reply_text(
-        '**𝖳𝗁𝗂𝗌 𝖯𝗋𝗈𝖼𝖼𝖾𝗌 𝖶𝗂𝗅𝗅 𝖣𝖾𝗅𝖾𝗍𝖾 𝖠𝗅𝗅 𝖳𝗁𝖾 𝖥𝗂𝗅𝖾𝗌 𝖥𝗋𝗈𝗆 𝖸𝗈𝗎𝗋 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾.\n𝖣𝗈 𝖸𝗈𝗎 𝖶𝖺𝗇𝖽 𝖳𝗈 𝖢𝗈𝗇𝗍𝗂𝗇𝗎𝖾 𝖳𝗁𝗂𝗌..??**',
+        '**ᴛʜɪs ᴘʀᴏᴄᴄᴇs ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ʏᴏᴜʀ ᴅᴀᴛᴀʙᴀsᴇ.\nᴅᴏ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ᴛʜɪs..??**',
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        text="𝖸𝖾𝗌", callback_data="autofilter_delete"
+                        text="ʏᴇs", callback_data="autofilter_delete"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="𝖢𝖺𝗇𝖼𝖾𝗅", callback_data="close_data"
+                        text="ᴄᴀɴᴄᴇʟ", callback_data="close_data"
                     )
                 ],
             ]
@@ -345,8 +345,8 @@ async def delete_all_index(bot, message):
 @Client.on_callback_query(filters.regex(r'^autofilter_delete'))
 async def delete_all_index_confirm(bot, message):
     await Media.collection.drop()
-    await message.answer('𝖯𝗅𝖾𝖺𝗌𝖾 𝖲𝗁𝖺𝗋𝖾 𝖠𝗇𝖽 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖴𝗌')
-    await message.message.edit('𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝖣𝖾𝗅𝖾𝗍𝖾𝖽 𝖠𝗅𝗅 𝖳𝗁𝖾 𝖨𝗇𝖽𝖾𝗑𝖾𝖽 𝖥𝗂𝗅𝖾𝗌.')
+    await message.answer('𝑝𝑙𝑒𝑎𝑠𝑒 𝑠ℎ𝑎𝑟𝑒 𝑎𝑛𝑑 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 𝑢𝑠')
+    await message.message.edit('sᴜᴄᴄᴇssғᴜʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ᴀʟʟ ᴛʜᴇ ɪɴᴅᴇxᴇᴅ ғɪʟᴇs.')
 
 
 @Client.on_message(filters.command('settings'))
@@ -364,10 +364,10 @@ async def settings(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("𝖬𝖺𝗄𝖾 𝗌𝗎𝗋𝖾 𝗂'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+                await message.reply_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ ᴀᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                 return
         else:
-            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!", quote=True)
+            await message.reply_text("ɪ ᴀᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ!", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
@@ -391,61 +391,61 @@ async def settings(client, message):
         buttons = [
             [
                 InlineKeyboardButton(
-                    '𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗎𝗍𝗍𝗈𝗇',
+                    'ғɪʟᴛᴇʀ ʙᴜᴛᴛᴏɴ',
                     callback_data=f'setgs#button#{settings["button"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '𝖲𝗂𝗇𝗀𝗅𝖾' if settings["button"] else '𝖣𝗈𝗎𝖻𝗅𝖾',
+                    'sɪɴɢʟᴇ' if settings["button"] else '𝖣𝗈𝗎𝖻𝗅𝖾',
                     callback_data=f'setgs#button#{settings["button"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '𝖡𝗈𝗍 𝖯𝗆',
+                    'ʙᴏᴛ ᴘᴍ',
                     callback_data=f'setgs#botpm#{settings["botpm"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝖸𝖾𝗌' if settings["botpm"] else '🗑️ 𝖭𝗈',
+                    '✅ ʏᴇs' if settings["botpm"] else '🗑️ 𝖭𝗈',
                     callback_data=f'setgs#botpm#{settings["botpm"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '𝖥𝗂𝗅𝖾 𝖲𝖾𝖼𝗎𝗋𝖾',
+                    'ғɪʟᴇ sᴇᴄᴜʀᴇ',
                     callback_data=f'setgs#file_secure#{settings["file_secure"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝖸𝖾𝗌' if settings["file_secure"] else '🗑️ 𝖭𝗈',
+                    '✅ ʏᴇs' if settings["file_secure"] else '🗑️ 𝖭𝗈',
                     callback_data=f'setgs#file_secure#{settings["file_secure"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '𝖨𝗆𝖽𝖻',
+                    'ɪᴍᴅʙ',
                     callback_data=f'setgs#imdb#{settings["imdb"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝖸𝖾𝗌' if settings["imdb"] else '🗑️ 𝖭𝗈',
+                    '✅ ʏᴇs' if settings["imdb"] else '🗑️ 𝖭𝗈',
                     callback_data=f'setgs#imdb#{settings["imdb"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '𝖲𝗉𝖾𝗅𝗅 𝖢𝗁𝖾𝖼𝗄',
+                    'sᴘᴇʟʟ ᴄʜᴇᴄᴋ',
                     callback_data=f'setgs#spell_check#{settings["spell_check"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝖸𝖾𝗌' if settings["spell_check"] else '🗑️ 𝖭𝗈',
+                    '✅ ʏᴇs' if settings["spell_check"] else '🗑️ 𝖭𝗈',
                     callback_data=f'setgs#spell_check#{settings["spell_check"]}#{grp_id}',
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    '𝖶𝖾𝗅𝖼𝗈𝗆𝖾',
+                    'ᴡᴇʟᴄᴏᴍᴇ',
                     callback_data=f'setgs#welcome#{settings["welcome"]}#{grp_id}',
                 ),
                 InlineKeyboardButton(
-                    '✅ 𝖸𝖾𝗌' if settings["welcome"] else '🗑️ 𝖭𝗈',
+                    '✅ ʏᴇs' if settings["welcome"] else '🗑️ 𝖭𝗈',
                     callback_data=f'setgs#welcome#{settings["welcome"]}#{grp_id}',
                 ),
             ],
@@ -454,7 +454,7 @@ async def settings(client, message):
         reply_markup = InlineKeyboardMarkup(buttons)
 
         await message.reply_text(
-            text=f"<b>𝖢𝗁𝖺𝗇𝗀𝖾 𝖳𝗁𝖾 𝖡𝗈𝗍 𝖲𝖾𝗍𝗍𝗂𝗇𝗀𝗌 𝖥𝗈𝗋 {title}../</b>",
+            text=f"<b>ᴄʜᴀɴɢᴇ ᴛʜᴇ ʙᴏᴛ sᴇᴛᴛɪɴɢs ғᴏʀ{title}..</b>",
             reply_markup=reply_markup,
             disable_web_page_preview=True,
             parse_mode="html",
@@ -465,7 +465,7 @@ async def settings(client, message):
 
 @Client.on_message(filters.command('set_template'))
 async def save_template(client, message):
-    sts = await message.reply("**𝖢𝗁𝖾𝖼𝗄𝗂𝗇𝗀 𝖭𝖾𝗐 𝖳𝖾𝗆𝗉𝗅𝖺𝗍𝖾**")
+    sts = await message.reply("**ᴄʜᴇᴄᴋɪɴɢ ɴᴇᴡ ᴛᴇᴍᴘʟᴀᴛᴇ**")
     userid = message.from_user.id if message.from_user else None
     if not userid:
         return await message.reply(f"You are anonymous admin. Use /connect {message.chat.id} in PM")
@@ -479,10 +479,10 @@ async def save_template(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+                await message.reply_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ ᴀᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                 return
         else:
-            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!", quote=True)
+            await message.reply_text("ɪ ᴀᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ!", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
@@ -504,4 +504,4 @@ async def save_template(client, message):
         return await sts.edit("No Input!!")
     template = message.text.split(" ", 1)[1]
     await save_group_settings(grp_id, 'template', template)
-    await sts.edit(f"𝖲𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝖴𝗉𝗀𝗋𝖺𝖽𝖾𝖽 𝖸𝗈𝗎𝗋 𝖳𝖾𝗆𝗉𝗅𝖺𝗍𝖾 𝖥𝗈𝗋 {title}\n\n{template}")
+    await sts.edit(f"sᴜᴄᴄᴇssғᴜʟʟʏ ᴜᴘɢʀᴀᴅᴇᴅ ʏᴏᴜʀ ᴛᴇᴍᴘʟᴀᴛᴇ ғᴏʀ {title}\n\n{template}")
