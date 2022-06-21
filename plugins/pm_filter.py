@@ -813,7 +813,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
             InlineKeyboardButton('sᴇᴀʀᴄʜ ', callback_data='search')
             ],[
-            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tgraph'),
+            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tele'),
             InlineKeyboardButton('ᴡʜᴏɪs ', callback_data='whois'),
             InlineKeyboardButton('ғᴜɴ ', callback_data='fun')
             ],[
