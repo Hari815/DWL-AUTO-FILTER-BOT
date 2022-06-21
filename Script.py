@@ -47,8 +47,21 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
 ✮ 𝗣𝗵𝗼𝗻𝗲𝗣𝗲
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐀𝐧𝐝 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/AboutAadhi><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━""" 
-    FILE_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗈𝗋𝖾 𝖬𝗈𝖽𝗎𝗅𝖾../
+━━━━━━━━━━━━᚜ <a href=https://t.me/AboutAadhi><b>ꪖꪖᦔꫝỉ</b></a> ᚛━━━━━━━━━━━━"""
+    ALIVE_TXT ="""<b>ALIVE MODULE</b>
+• /alive - check me alive or dead🤧
+Just for a rasam😂"""
+     INFO_TXT = """Help: <b>Information</b>
+Get information about something!
+<b>Commands and Usage:</b>
+• /id - get id of a specifed user.
+• /info  - get information about a user.
+• /json - get the json details of a message.
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• These commands can be used by any group member."""
+    FILE_TXT = """➤ 𝖧𝖾𝗅𝗉: 𝖥𝗂𝗅𝖾 𝖲𝗍𝗈𝗋𝖾 𝖬𝗈𝖽𝗎𝗅𝖾..
 
 <b>𝖡𝗒 𝖴𝗌𝗂𝗇𝗀 𝖳𝗁𝗂𝗌 𝖬𝗈𝖽𝗎𝗅𝖾 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖲𝗍𝗈𝗋𝖾 𝖥𝗂𝗅𝖾𝗌 𝖨𝗇 𝖬𝗒 𝖣𝖺𝗍𝖺 𝖡𝖺𝗌𝖾 𝖠𝗇𝖽 𝖨 𝖶𝗂𝗅𝗅 𝖦𝗂𝗏𝖾 𝖸𝗈𝗎 𝖠 𝖯𝖾𝗋𝗆𝖾𝗇𝖾𝗇𝗍 𝖫𝗂𝗇𝗄 𝖳𝗈 𝖠𝖼𝖼𝖾𝗌𝗌 𝖳𝗁𝖾 𝖲𝖺𝗏𝖾𝖽 𝖥𝗂𝗅𝖾𝗌.𝖨𝖿 𝖸𝗈𝗎 𝖶𝖺𝗇𝗍 𝖳𝗈 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖥𝗋𝗈𝗆 𝖠 𝖯𝗋𝗂𝗏𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖸𝗈𝗎 𝖬𝗎𝗌𝗍 𝖬𝖺𝗄𝖾 𝖬𝖾 𝖠𝖽𝗆𝗂𝗇 𝖮𝗇 𝖳𝗁𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 𝖳𝗈 𝖠𝖼𝖼𝖾𝗌𝗌 𝖥𝗂𝗅𝖾𝗌...//</b>
 
@@ -90,6 +103,13 @@ Note:- Give a user details
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
+    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+<b>NOTE:</b>
+
+1. Make me the admin of your channel if it's private.
+2. Make sure that your channel does not contains camrips, porn and fake files.
+3. Forward the last message to me with quotes.
+ I'll add all the files in that channel to my db."""
     SONG_TXT = """<b>𝖲𝗈𝗇𝗀 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗈𝖽𝗎𝗅𝖾</b>
 
 <b>𝖲𝗈𝗇𝗀 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗈𝖽𝗎𝗅𝖾, 𝖥𝗈𝗋 𝖳𝗁𝗈𝗌𝖾 𝖶𝗁𝗈 𝖫𝗈𝗏𝖾 𝖬𝗎𝗌𝗂𝖼. 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖳𝗁𝗂𝗌 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖥𝗈𝗋 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖬𝗎𝗌𝗂𝖼. 𝖠𝗇𝗒 𝖲𝗈𝗇𝗀 𝖶𝗂𝗍𝗁 𝖲𝗎𝗉𝖾𝗋 𝖥𝖺𝗌𝗍 𝖲𝗉𝖾𝖾𝖽.𝖶𝗈𝗋𝗄𝗌 𝖮𝗇𝗅𝗒 𝖮𝗇 𝖦𝗋𝗈𝗎𝗉..</b>
