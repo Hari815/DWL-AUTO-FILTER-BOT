@@ -149,41 +149,49 @@ async def who_is(client, message):
 @Client.on_message(filters.command("help"))
 async def help(client, message):
         buttons = [[
-            InlineKeyboardButton('ᴍᴀɴᴜᴀʟ ғɪʟᴛᴇʀ', callback_data='manuelfilter'),
-            InlineKeyboardButton('ᴀᴜᴛᴏ ғᴛᴇʀ', callback_data='autofilter'),
-            InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂', callback_data='coct')
+            InlineKeyboardButton('ᴀᴅᴍɪɴ ', callback_data='admin'),
+            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ ', callback_data='coct'),
+            InlineKeyboardButton('ғɪʟᴛᴇʀ ', callback_data='auto_manual')
             ],[
-            InlineKeyboardButton('𝚂𝙾𝙽𝙶', callback_data='songs'),
-            InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰', callback_data='extra'),
-            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾", callback_data='video')
+            InlineKeyboardButton('ɢᴛʀᴀɴs ', callback_data='gtrans'),
+            InlineKeyboardButton('ɪɴғᴏ ', callback_data='info'),
+            InlineKeyboardButton('ᴘᴀsᴛᴇ ', callback_data='paste')
             ],[
-            InlineKeyboardButton('𝙿𝙸𝙽', callback_data='pin'), 
-            InlineKeyboardButton('𝙿𝙰𝚂𝚃𝙴', callback_data='pastes'),
-            InlineKeyboardButton("𝙸𝙼𝙰𝙶𝙴", callback_data='image')
+            InlineKeyboardButton('ᴘᴜʀɢᴇ ', callback_data='purge'),
+            InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
+            InlineKeyboardButton('sᴇᴀʀᴄʜ ', callback_data='search')
             ],[
-            InlineKeyboardButton('𝙵𝚄𝙽', callback_data='fun'), 
-            InlineKeyboardButton('𝙹𝚂𝙾𝙽𝙴', callback_data='son'),
-            InlineKeyboardButton('𝚃𝚃𝚂', callback_data='ttss')
+            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tgraph'),
+            InlineKeyboardButton('ᴡʜᴏɪs ', callback_data='whois'),
+            InlineKeyboardButton('ғᴜɴ ', callback_data='fun')
             ],[
-            InlineKeyboardButton('𝙿𝚄𝚁𝙶𝙴', callback_data='purges'),
-            InlineKeyboardButton('𝙿𝙸𝙽𝙶', callback_data='pings'),
-            InlineKeyboardButton('𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙿𝙷', callback_data='tele')
+            InlineKeyboardButton('ᴀʟɪᴠᴇ ', callback_data='alive'),
+            InlineKeyboardButton('sᴏɴɢ ', callback_data='song'),
+            InlineKeyboardButton('ᴊsᴏɴ ', callback_data='json')
             ],[
-            InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂', callback_data='whois'),
-            InlineKeyboardButton('𝙼𝚄𝚃𝙴', callback_data='restric'),
-            InlineKeyboardButton('𝙺𝙸𝙲𝙺', callback_data='zombies')
+            InlineKeyboardButton('ᴘɪɴ ', callback_data='pin'),
+            InlineKeyboardButton('ᴄᴏʀᴏɴᴀ ', callback_data='corona'),
+            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ', callback_data='stickerid')
             ],[
-            InlineKeyboardButton('𝚁𝙴𝙿𝙾𝚁𝚃', callback_data='report'),
-            InlineKeyboardButton('𝚈𝚃-𝚃𝙷𝚄𝙼𝙱', callback_data='ytthumb'),
-            InlineKeyboardButton('𝚂𝚃𝙸𝙲𝙺𝙴𝚁-𝙸𝙳', callback_data='sticker')
+            InlineKeyboardButton('ᴛᴛꜱ', callback_data='ttss'),
+            InlineKeyboardButton('yᴛ-ᴛʜᴜᴍʙ', callback_data='ytthumb'),
+            InlineKeyboardButton('ᴀᴜᴅɪᴏ-ʙᴏᴏᴋ', callback_data='abook')
             ],[
-            InlineKeyboardButton('𝙲𝙾𝚅𝙸𝙳', callback_data='corona'),
-            InlineKeyboardButton('𝙰𝚄𝙳𝙸𝙾-𝙱𝙾𝙾𝙺', callback_data='abook'),
-            InlineKeyboardButton('𝚄𝚁𝙻-𝚂𝙷𝙾𝚁𝚃', callback_data='urlshort')
+            InlineKeyboardButton('ᴜʀʟ-sʜᴏʀᴛ', callback_data='urlshort'),
+            InlineKeyboardButton('ʀᴇᴩᴏʀᴛ', callback_data='report'),
+            InlineKeyboardButton("ᴠɪᴅᴇᴏ", callback_data='video')
             ],[
-            InlineKeyboardButton('𝙶-𝚃𝚁𝙰𝙽𝚂', callback_data='gtrans'),
-            InlineKeyboardButton('𝙵𝙸𝙻𝙴-𝚂𝚃𝙾𝚁𝙴', callback_data='newdata'),
-            InlineKeyboardButton('𝚂𝚃𝙰𝚃𝚄𝚂', callback_data='stats')
+            InlineKeyboardButton('ᴋɪᴄᴋ', callback_data='zombies'),
+            InlineKeyboardButton('ᴍᴜᴛᴇ', callback_data='restric'),
+            InlineKeyboardButton('ꜰɪʟᴇ-ꜱᴛᴏʀᴇ', callback_data='newdata')
+            ],[
+            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ', callback_data='sorse'),
+            InlineKeyboardButton('ɢɪᴛʜᴜʙ', callback_data='github'),
+            InlineKeyboardButton("ɪᴍᴀɢᴇ", callback_data='image')
+            ],[
+            InlineKeyboardButton('🚶‍♀️ ʙᴀᴄᴋ', callback_data='start'),
+            InlineKeyboardButton('ꜱᴛᴀᴛᴜꜱ 🎛️', callback_data='stats'),
+            InlineKeyboardButton('ᴄʟᴏꜱᴇ ⛔️', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
