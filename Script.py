@@ -51,7 +51,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐖𝐢𝐭𝐡 𝐘𝐨𝐮𝐫 𝐂�
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
 • /alive - check me alive or dead🤧
 Just for a rasam😂"""
-     INFO_TXT = """Help: <b>Information</b>
+    INFO_TXT = """Help: <b>Information</b>
 Get information about something!
 <b>Commands and Usage:</b>
 • /id - get id of a specifed user.
