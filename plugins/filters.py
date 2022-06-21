@@ -29,10 +29,10 @@ async def addfilter(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'm 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+                await message.reply_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ ᴀᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                 return
         else:
-            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!", quote=True)
+            await message.reply_text("ɪ ᴀᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ!", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
@@ -132,10 +132,10 @@ async def get_all(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+                await message.reply_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ ᴀᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                 return
         else:
-            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉", quote=True)
+            await message.reply_text("ɪ ᴀᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
@@ -172,7 +172,7 @@ async def get_all(client, message):
                 )
             return
     else:
-        filterlist = f"𝖳𝗁𝖾𝗋𝖾 𝖠𝗋𝖾 𝖭𝗈 𝖠𝖼𝗍𝗂𝗏𝖾 𝖥𝗂𝗅𝗍𝖾𝗋𝗌 𝖨𝗇 **{title}**"
+        filterlist = f"ᴛʜᴇʀᴇ ᴀʀᴇ ɴᴏ ᴀᴄᴛɪᴠᴇ ғɪʟᴛᴇʀs ɪɴ **{title}**"
 
     await message.reply_text(
         text=filterlist,
@@ -195,10 +195,10 @@ async def deletefilter(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'𝖠𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+                await message.reply_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ ᴀᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                 return
         else:
-            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+            await message.reply_text("ɪ ᴀᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ!!", quote=True)
 
     elif chat_type in ["group", "supergroup"]:
         grp_id = message.chat.id
@@ -219,7 +219,7 @@ async def deletefilter(client, message):
         cmd, text = message.text.split(" ", 1)
     except:
         await message.reply_text(
-            "<i>𝖬𝖾𝗇𝗍𝗂𝗈𝗇 𝖳𝗁𝖾 𝖥𝗂𝗅𝖾 𝖭𝖺𝗆𝖾 𝖶𝗁𝗂𝖼𝗁 𝖸𝗈𝗎 𝖶𝖺𝗇𝗇𝖺 𝖣𝖾𝗅𝖾𝗍𝖾!</i>\n\n"
+            "<i>ᴍᴇɴᴛɪᴏɴ ᴛʜᴇ ғɪʟᴇ ɴᴀᴍᴇ ᴡɪᴄʜ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴇʟᴇᴛᴇ!</i>\n\n"
             "<code>/del filtername</code>\n\n"
             "Use /viewfilters to view all available filters",
             quote=True
@@ -246,10 +246,10 @@ async def delallconfirm(client, message):
                 chat = await client.get_chat(grpid)
                 title = chat.title
             except:
-                await message.reply_text("𝖬𝖺𝗄𝖾 𝖲𝗎𝗋𝖾 𝖨'𝖺𝗆 𝖯𝗋𝖾𝗌𝖾𝗇𝗍 𝖨𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉!!", quote=True)
+                await message.reply_text("ᴍᴀᴋᴇ sᴜʀᴇ ɪ ᴀᴍ ᴘʀᴇsᴇɴᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!!", quote=True)
                 return
         else:
-            await message.reply_text("𝖨'𝖺𝗆 𝖭𝗈𝗍 𝖢𝗈𝗇𝗇𝖾𝖼𝗍𝖾𝖽 𝖳𝗈 𝖠𝗇𝗒 𝖦𝗋𝗈𝗎𝗉!", quote=True)
+            await message.reply_text("ɪ ᴀᴍ ɴᴏᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ᴀɴʏ ɢʀᴏᴜᴘ!", quote=True)
             return
 
     elif chat_type in ["group", "supergroup"]:
