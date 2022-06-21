@@ -130,6 +130,15 @@ Note:- Give a user details
 
 ◉ /pin :- 𝖳𝗈 𝖯𝗂𝗇 𝖳𝗁𝖾 𝖬𝖾𝗌𝗌𝖺𝗀𝖾 𝖮𝗇 𝖸𝗈𝗎𝗋 𝖢𝗁𝖺𝗍𝗌
 ◉ /unpin :- 𝖳𝗈 𝖴𝗇𝗉𝗂𝗇 𝖳𝗁𝖾 𝖢𝗎𝗋𝗋𝖾𝗇𝗍 𝖯𝗂𝗇𝗇𝖾𝖽 𝖬𝖾𝗌𝗌𝖺𝗀𝖾"""
+    SEARCH_TXT = """Help: <b>IMDb</b>
+Search many things without leaving telegram!
+<b>Commands and Usage:</b>
+• /imdb  - get the film information from IMDb source.
+• /search  - get the film information from various sources.
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• More search tools can be found on inline.
+• Those commands works on both pm and group."""
     PASTE_TXT = """Help: <b>Paste</b>
 
 𝖯𝖺𝗌𝗍𝖾 𝖲𝗈𝗆𝖾 𝖳𝖾𝗑𝗍𝗌 𝖮𝗋 𝖣𝗈𝖼𝗎𝗆𝖾𝗍𝗌 𝖮𝗇 𝖠 𝖶𝖾𝖻𝗌𝗂𝗍𝖾!
