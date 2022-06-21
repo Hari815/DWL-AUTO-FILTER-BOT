@@ -30,20 +30,20 @@ async def showid(client, message):
     elif chat_type in ["group", "supergroup"]:
         _id = ""
         _id += (
-            "<b>➛ Chat ID</b>: "
+            "<b>• Chat ID</b>: "
             f"<code>{message.chat.id}</code>\n"
         )
         if message.reply_to_message:
             _id += (
-                "<b>➛ User ID</b>: "
+                "<b>• User ID</b>: "
                 f"<code>{message.from_user.id if message.from_user else 'Anonymous'}</code>\n"
-                "<b>➛ Replied User ID</b>: "
+                "<b>• Replied User ID</b>: "
                 f"<code>{message.reply_to_message.from_user.id if message.reply_to_message.from_user else 'Anonymous'}</code>\n"
             )
             file_info = get_file_id(message.reply_to_message)
         else:
             _id += (
-                "<b>➛ User ID</b>: "
+                "<b>• User ID</b>: "
                 f"<code>{message.from_user.id if message.from_user else 'Anonymous'}</code>\n"
             )
             file_info = get_file_id(message)
@@ -77,10 +77,10 @@ async def aboutme(client, message):
 async def who_is(client, message):
     # https://github.com/SpEcHiDe/PyroGramBot/blob/master/pyrobot/plugins/admemes/whois.py#L19
     status_message = await message.reply_text(
-        "`𝚂𝙴𝙰𝚁𝙲𝙷𝙸𝙽𝙶 𝚄𝚂𝙴𝚁...`"
+        "`sᴇᴀʀᴄʜɪɴɢ ᴜsᴇʀ...`"
     )
     await status_message.edit(
-        "`𝙰𝙲𝙲𝙴𝚂𝚂𝙸𝙽𝙶 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽...`"
+        "`ᴀᴄᴄᴇssɪɴɢ ɪɴғᴏʀᴍᴀᴛɪᴏɴ...`"
     )
     from_user = None
     from_user_id, _ = extract_user(message)
@@ -92,15 +92,15 @@ async def who_is(client, message):
     if from_user is None:
         return await status_message.edit("no valid user_id / message specified")
     message_out_str = ""
-    message_out_str += f"<b>➾ First Name:</b> {from_user.first_name}\n"
+    message_out_str += f"<b>• First Name:</b> {from_user.first_name}\n"
     last_name = from_user.last_name or "<b>None</b>"
-    message_out_str += f"<b>➾ Last Name:</b> {last_name}\n"
-    message_out_str += f"<b>➾ Telegram ID:</b> <code>{from_user.id}</code>\n"
+    message_out_str += f"<b>• Last Name:</b> {last_name}\n"
+    message_out_str += f"<b>• Telegram ID:</b> <code>{from_user.id}</code>\n"
     username = from_user.username or "<b>None</b>"
     dc_id = from_user.dc_id or "[User Doesnt Have A Valid DP]"
-    message_out_str += f"<b>➾ Data Centre:</b> <code>{dc_id}</code>\n"
-    message_out_str += f"<b>➾ User Name:</b> @{username}\n"
-    message_out_str += f"<b>➾ User 𝖫𝗂𝗇𝗄:</b> <a href='tg://user?id={from_user.id}'><b>Click Here</b></a>\n"
+    message_out_str += f"<b>• Data Centre:</b> <code>{dc_id}</code>\n"
+    message_out_str += f"<b>• User Name:</b> @{username}\n"
+    message_out_str += f"<b>• User 𝖫𝗂𝗇𝗄:</b> <a href='tg://user?id={from_user.id}'><b>Click Here</b></a>\n"
     if message.chat.type in (("supergroup", "channel")):
         try:
             chat_member_p = await message.chat.get_member(from_user.id)
@@ -108,7 +108,7 @@ async def who_is(client, message):
                 chat_member_p.joined_date or time.time()
             ).strftime("%Y.%m.%d %H:%M:%S")
             message_out_str += (
-                "<b>➾ Joined this Chat on:</b> <code>"
+                "<b>• Joined this Chat on:</b> <code>"
                 f"{joined_date}"
                 "</code>\n"
             )
@@ -151,27 +151,27 @@ async def help(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴍɪɴ ', callback_data='admin'),
             InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛ ', callback_data='coct'),
-            InlineKeyboardButton('ғɪʟᴛᴇʀ ', callback_data='auto_manual')
+            InlineKeyboardButton('ғɪʟᴛᴇʀ ', callback_data='manuelfilter')
             ],[
             InlineKeyboardButton('ɢᴛʀᴀɴs ', callback_data='gtrans'),
             InlineKeyboardButton('ɪɴғᴏ ', callback_data='info'),
-            InlineKeyboardButton('ᴘᴀsᴛᴇ ', callback_data='paste')
+            InlineKeyboardButton('ᴘᴀsᴛᴇ ', callback_data='pastes')
             ],[
-            InlineKeyboardButton('ᴘᴜʀɢᴇ ', callback_data='purge'),
+            InlineKeyboardButton('ᴘᴜʀɢᴇ ', callback_data='purges'),
             InlineKeyboardButton('ʀᴇsᴛʀɪᴄᴛ ', callback_data='restric'),
             InlineKeyboardButton('sᴇᴀʀᴄʜ ', callback_data='search')
             ],[
-            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tgraph'),
+            InlineKeyboardButton('ᴛɢʀᴀᴘʜ ', callback_data='tele'),
             InlineKeyboardButton('ᴡʜᴏɪs ', callback_data='whois'),
             InlineKeyboardButton('ғᴜɴ ', callback_data='fun')
             ],[
             InlineKeyboardButton('ᴀʟɪᴠᴇ ', callback_data='alive'),
-            InlineKeyboardButton('sᴏɴɢ ', callback_data='song'),
-            InlineKeyboardButton('ᴊsᴏɴ ', callback_data='json')
+            InlineKeyboardButton('sᴏɴɢ ', callback_data='songs'),
+            InlineKeyboardButton('ᴊsᴏɴ ', callback_data='son')
             ],[
             InlineKeyboardButton('ᴘɪɴ ', callback_data='pin'),
             InlineKeyboardButton('ᴄᴏʀᴏɴᴀ ', callback_data='corona'),
-            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ', callback_data='stickerid')
+            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ', callback_data='sticker')
             ],[
             InlineKeyboardButton('ᴛᴛꜱ', callback_data='ttss'),
             InlineKeyboardButton('yᴛ-ᴛʜᴜᴍʙ', callback_data='ytthumb'),
@@ -191,7 +191,7 @@ async def help(client, message):
             ],[
             InlineKeyboardButton('🚶‍♀️ ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ꜱᴛᴀᴛᴜꜱ 🎛️', callback_data='stats'),
-            InlineKeyboardButton('ᴄʟᴏꜱᴇ ⛔️', callback_data='close_data')
+            InlineKeyboardButton('⛔️ ᴄʟᴏꜱᴇ', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
